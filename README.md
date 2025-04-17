@@ -2,19 +2,11 @@
 # I'm interested in data analytics
 
 ### Stats:
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning Python </br>
-    - 👯 I’m looking to collaborate on data analysis projects </br>
-    - 🤔 I’m looking for help with master of python analysis.. </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="teguhalfian01.mta@gmail.com">Contact me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: Love weight lifting and watching movies </br>
-</details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=teguhalf&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teguhalf&layout=compact" height=180 />
+<p align="left">
+<a href="https://github.com/teguhalf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=teguhalf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teguhalf&layout=compact&layout=compact&theme=algolia"/>
+</a>
 </p>
 
 ### Let's connect!
